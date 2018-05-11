@@ -27,6 +27,9 @@ tr:nth-child(even) {
    width: 300px;
    border: 2px dashed 	#FF1493;
    padding: 10px 30px 20px 15px;
+   letter-spacing: 2px;
+   text-align: center;
+   display: inline-block;
 
 }
 
@@ -36,6 +39,9 @@ tr:nth-child(even) {
    width: 300px;
    border: 4px dotted #36f7a6;
    padding: 25px 20px 25px 20px;
+   letter-spacing: 1px;
+   margin: 0 auto;
+   text-shadow: 3px 3px 1px black;
 
 }
 
